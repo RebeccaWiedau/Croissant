@@ -1,30 +1,12 @@
-a {
-    border: solid 1px black;
-    padding: 5px;
-    margin: 5px;
-    font-weight: bold;
-}
-
-.contact-link {
-    background-color: greenyellow;
-    color: firebrick;
-}
-
-.home-link {
-    background-color: purple;
-    color: gold;
-}
-
-.photo-link {
-    background-color: #ff8800;
-    color: cornflowerblue;
-}
-
-.github-link {
-    background-color: black;
-    color: white;
+h1 {
+    text-align: center;
+    padding: 20px 0;
 }
 
 p {
-    max-width: 600px;
+    max-width: 800px;
+}
+
+.catsant {
+
 }
