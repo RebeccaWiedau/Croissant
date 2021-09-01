@@ -19,3 +19,12 @@ a {
     background-color: #ff8800;
     color: cornflowerblue;
 }
+
+.github-link {
+    background-color: black;
+    color: white;
+}
+
+p {
+    max-width: 600px;
+}
