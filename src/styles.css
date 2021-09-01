@@ -1,0 +1,21 @@
+a {
+    border: solid 1px black;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.contact-link {
+    background-color: greenyellow;
+    color: firebrick;
+}
+
+.home-link {
+    background-color: purple;
+    color: gold;
+}
+
+.photo-link {
+    background-color: #ff8800;
+    color: cornflowerblue;
+}
